@@ -8,6 +8,22 @@
     <title>About Me</title>
     <link rel="stylesheet" href="css/style.css">
 
+    <script> 
+      function toggleTheme() { 
+          // Obtains an array of all <link> 
+          // elements. 
+          // Select your element using indexing. 
+          var theme = document.getElementsByTagName('link')[0]; 
+
+          // Change the value of href attribute  
+          // to change the css sheet. 
+          if (theme.getAttribute('href') == 'normal.css') { 
+              theme.setAttribute('href', 'reset.css'); 
+          } else { 
+              theme.setAttribute('href', 'normal.css'); 
+          } 
+      } 
+  </script> 
 </head>
 
 <body>
@@ -34,7 +50,7 @@
         are useful within my day job, where I manage a bunch of web developers. Lastly, the ability to freelance, adding an additional income stream, is attractive as well.
       </p>
     </section>
-
+    <button onclick="toggleTheme()">Reset CSS</button>
     <footer id="footer">
         <ul class="social">
           <li><a href="http://www.github.com/DJFriar">Github</a></li>
