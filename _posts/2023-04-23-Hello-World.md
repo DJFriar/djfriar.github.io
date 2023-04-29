@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2023-04-23T20:35:00-06:00
 categories:
-  - blog
+  - Blog
 tags:
   - General
 ---
