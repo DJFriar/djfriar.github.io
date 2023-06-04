@@ -61,9 +61,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Father of 2 teenagers, software developer, photography, and motorcyclist."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tommycraft.dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DJFriar"
