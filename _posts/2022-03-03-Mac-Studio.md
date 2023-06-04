@@ -21,5 +21,4 @@ Ahhhh! I'm so excited!
 
 <figure>
 	<a href="/assets/images/mac-studio.jpg"><img src="/assets/images/mac-studio.jpg"></a>
-	<figcaption>Mac Studio</figcaption>
 </figure>
