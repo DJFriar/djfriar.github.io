@@ -1,5 +1,5 @@
 ---
-title: "Apple Special Event - March 2012"
+title: "A follow-up on Apple's March 2012 event"
 date: 2012-03-28T11:28:00-06:00
 categories:
   - Blog

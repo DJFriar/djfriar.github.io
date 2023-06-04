@@ -1,6 +1,6 @@
 ---
 title: "Apple Special Event - March 2012"
-date: 2012-03-06T23:04:00-06:00
+date: 2011-08-18T23:09:00-06:00
 categories:
   - Blog
 tags:
