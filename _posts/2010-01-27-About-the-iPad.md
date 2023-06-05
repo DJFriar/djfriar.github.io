@@ -1,5 +1,5 @@
 ---
-title: "Apple Special Event - March 2012"
+title: "About the iPad"
 date: 2010-01-27T15:59:00-06:00
 categories:
   - Blog

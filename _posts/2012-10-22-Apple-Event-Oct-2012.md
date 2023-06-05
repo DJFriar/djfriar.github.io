@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on Apple's October 2012 Event"
+title: "Predictions for Apple's October 2012 Event"
 date: 2012-10-22T23:28:00-06:00
 categories:
   - Blog

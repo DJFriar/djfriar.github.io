@@ -1,5 +1,5 @@
 ---
-title: "Apple Special Event - March 2012"
+title: "HP threw in the towel"
 date: 2011-08-18T23:09:00-06:00
 categories:
   - Blog

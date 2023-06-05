@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on Apple's March 2012 Event"
+title: "Predictions for Apple's March 2012 Event"
 date: 2012-03-06T23:04:00-06:00
 categories:
   - Blog
